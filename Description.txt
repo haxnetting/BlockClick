@@ -1,0 +1,11 @@
+BlockClick to gra typu Geometry Dash, klikając w ekran nasza postać (Kwadrat) podskakuje, a przytrzymując skacze ciągle,
+dopóki nie puścimy przycisku. Należy omijać przeszkody.
+
+Alternatywne sterowanie:
+
+Lewy przycisk myszy: Skok
+Prawy przycisk myszy: Pauza
+Escape: Zamknięcie programu
+W: Skok
+Uwaga: Przytrzymywanie przycisków nie skutkuje ciągłym skakaniem!
+Uwaga2: Kolce lubią być figlaśne!

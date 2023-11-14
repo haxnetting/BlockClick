@@ -1,0 +1,2 @@
+1. Zainstaluj wszystkie potrzebne programy (pierw zainstaluj pythona z Sklepu Microsoft!) odpalając zainstaluj.bat
+2. Otwórz plik main.pyw kliknięciem 2 razy
